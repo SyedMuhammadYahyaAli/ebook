@@ -11,7 +11,7 @@ const AboutFeatures = () => {
       <div className="w-full max-w-full lg:max-w-[600px] space-y-5">
         
         
-        <div className="w-20 md:w-32 font-semibold mb-4 border-b-4 border-[#083554]"></div>
+      
       </div>
     
       {/* Left Section */}
